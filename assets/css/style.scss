@@ -3,6 +3,14 @@
 
 @import "{{ site.theme }}";
 
+.project-name {
+  font-size: 2rem;
+}
+
+.project-tagline {
+  margin-bottom: 1rem;
+}
+
 .page-header {
   padding: 2rem 6rem;
 }
