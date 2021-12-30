@@ -1,4 +1,5 @@
-|[Home](../../README.md)|[Feel](../feel.md)|
+[Home](../../README.md) | [Feel](../feel.md)
+
 ---
 
 # Arithmetic
@@ -11,4 +12,5 @@
 - [Negation](negation.md)
 
 ---
-|[Home](../../README.md)|[Feel](../feel.md)|
+
+[Home](../../README.md) | [Feel](../feel.md)
