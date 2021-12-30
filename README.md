@@ -9,3 +9,8 @@ the institution behind such standards like UML®, BPMN™ and CORBA® to name a 
 **DMNTK** is written in [Rust](https://www.rust-lang.org/), a programming language that empowers building
 reliable and efficient software. **DMNTK** aims to be a reliable and efficient solution for executing
 decision models, fully compliant with [DMN™ specification](https://www.omg.org/spec/DMN).
+
+---
+Table of contents
+
+- [Overview](overview.md)
