@@ -15,3 +15,5 @@
 ```
 
 ##### [Home](../../README.md) | [Feel](../feel.md) | [Arithmetic](arithmetic.md)
+
+{% include footer.html %}

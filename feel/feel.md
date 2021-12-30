@@ -5,3 +5,5 @@
 - [Arithmetic](arithmetic/arithmetic.md)
 
 ##### [Home](../README.md)
+
+{% include footer.html %}

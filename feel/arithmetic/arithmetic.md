@@ -10,3 +10,5 @@
 - [Negation](negation.md)
 
 ##### [Home](../../README.md) | [Feel](../feel.md)
+
+{% include footer.html %}

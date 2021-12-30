@@ -14,3 +14,5 @@ decision models, fully compliant with [DMN™ specification](https://www.omg.org
 
 - [Overview](overview.md)
 - [FEEL](feel/feel.md)
+
+{% include footer.html %}
