@@ -3,6 +3,14 @@
 
 @import "{{ site.theme }}";
 
+.page-header {
+  padding: 2rem 6rem;
+}
+
+.main-content {
+  padding: 1rem 6rem;
+}
+
 .site-footer {
   display: none;
 }
