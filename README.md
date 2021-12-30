@@ -1,8 +1,6 @@
-# DMNTK
+# Decision Model and Notation Toolkit
 
-## Decision Model and Notation Toolkit
-
-**Decision Model and Notation Toolkit** is a set of tools for building, testing and evaluating decision models.
+**DMNTK** is a set of tools for building, testing and evaluating decision models.
 
 **DMNTK** is based on the [Decision Model and Notation (DMN™)](https://www.omg.org/dmn/),
 the industry standard led by the [Object Management Group (OMG®)](https://www.omg.org/),
