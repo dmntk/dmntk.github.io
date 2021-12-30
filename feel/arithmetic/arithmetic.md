@@ -1,6 +1,4 @@
-[Home](../../README.md) | [Feel](../feel.md)
-
----
+##### [Home](../../README.md) | [Feel](../feel.md)
 
 # Arithmetic
 
@@ -11,6 +9,5 @@
 - [Exponentiation](exponentiation.md)
 - [Negation](negation.md)
 
----
 
-[Home](../../README.md) | [Feel](../feel.md)
+##### [Home](../../README.md) | [Feel](../feel.md)
