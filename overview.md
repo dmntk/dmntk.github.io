@@ -4,4 +4,4 @@
 
 ##### [Home](README.md)
 
-{% include footer.html %}
+{% include_relative footer.md %}
