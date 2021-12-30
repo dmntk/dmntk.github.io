@@ -14,4 +14,4 @@ decision models, fully compliant with [DMN™ specification](https://www.omg.org
 Table of contents
 
 - [Overview](overview.md)
-- [FEEL](feel/feel.md)
+- [Friendly Enough Expression Language (FEEL)](feel/feel.md)
