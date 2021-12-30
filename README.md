@@ -10,8 +10,7 @@ the institution behind such standards like UML®, BPMN™ and CORBA® to name a 
 reliable and efficient software. **DMNTK** aims to be a reliable and efficient solution for executing
 decision models, fully compliant with [DMN™ specification](https://www.omg.org/spec/DMN).
 
----
-Table of contents
+## Table of Contents
 
 - [Overview](overview.md)
-- [Friendly Enough Expression Language (FEEL)](feel/feel.md)
+- [FEEL](feel/feel.md)

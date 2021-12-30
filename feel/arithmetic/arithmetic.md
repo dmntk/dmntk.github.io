@@ -9,5 +9,4 @@
 - [Exponentiation](exponentiation.md)
 - [Negation](negation.md)
 
-
 ##### [Home](../../README.md) | [Feel](../feel.md)

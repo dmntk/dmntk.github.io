@@ -1,3 +1,5 @@
+##### [Home](../../README.md) | [Feel](../feel.md) | [Arithmetic](arithmetic.md)
+
 # Exponentiation
 
 ```
@@ -12,6 +14,4 @@ a ** b
 x ** y
 ```
 
----
-[Home](../../README.md) | [Feel](../feel.md) | [Arithmetic](arithmetic.md)
-
+##### [Home](../../README.md) | [Feel](../feel.md) | [Arithmetic](arithmetic.md)
