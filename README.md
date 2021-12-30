@@ -9,6 +9,7 @@ that empowers building reliable and efficient software.
 **DMNTK** aims to be fully compliant with [DMN™ specification](https://www.omg.org/spec/DMN).
 
 - [Overview](overview.md)
+- [Installation](installation.md)
 - [FEEL](feel/feel.md)
 - [DMNTK on crates.io](https://crates.io/crates/dmntk)
 - [DMNTK on GitHub](https://github.com/dmntk/dmntk.rs)
