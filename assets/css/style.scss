@@ -3,8 +3,6 @@
 
 @import "{{ site.theme }}";
 
-.main-content {
-  footer {
-    display: none;
-  }
+.site-footer {
+  display: none;
 }
