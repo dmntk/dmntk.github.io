@@ -15,6 +15,9 @@ that empowers building reliable and efficient software.
 - [Installation](installation.md)
 - [Quickstart guide](quickstart.md)
 - [FEEL](feel/feel.md)
+
+Technical details about **DMNTK** are here:
+
 - [DMNTK on crates.io](https://crates.io/crates/dmntk)
 - [DMNTK on GitHub](https://github.com/dmntk/dmntk.rs)
 
