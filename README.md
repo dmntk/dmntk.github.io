@@ -78,15 +78,15 @@ $ dmntk edt e3.ctx e3.dtb
 
 ```text
 $ cd ./examples/e2
-$ dmntk srv -D .
+$ dmntk srv -H 127.0.0.1 -D .
 Loaded 1 file(s) from directory: .
-dmntk 0.0.0.0:22022
+dmntk 127.0.0.1:22022
 ```
 
 Switch to another terminal window and run:
 
 ```text
-$ curl -s -d '{"Full Name":"John Doe"}' -H "Content-Type: application/json" -X POST http://0.0.0.0:22022/evaluate/compliance-level-2-test-0001/Greeting%20Message
+$ curl -s -d "{\"Full Name\":\"John Doe\"}" -H "Content-Type: application/json" -X POST http://127.0.0.1:22022/evaluate/compliance-level-2-test-0001/Greeting%20Message
 {"data":"Hello John Doe"}
 ```
 
