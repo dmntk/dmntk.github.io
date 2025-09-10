@@ -1,4 +1,4 @@
-name: Deploy Notes to GitHub Pages
+name: Deploy DMNTK documentation
 
 on:
   # Runs on pushes targeting the `main` branch.
