@@ -1,5 +1,5 @@
 **DMNTK** | Decision Model and Notation Toolkit
 
-# DMNTK documentation
+# Documentation
 
 ### https://dmntk.github.io
