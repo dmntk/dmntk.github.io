@@ -5,9 +5,9 @@ export default defineConfig({
     base: '/',
     title: "DMNTK",
     description: "Decision Model and Notation Toolkit",
-    head: [['link', {rel: 'icon', href: '/dsntk-small.svg'}]],
+    head: [['link', {rel: 'icon', href: '/dmntk-small.svg'}]],
     themeConfig: {
-        logo: '/dsntk-small.svg',
+        logo: '/dmntk-small.svg',
         nav: [
             {
                 text: 'Guide',
